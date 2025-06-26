@@ -1,0 +1,7 @@
+Flask
+Pillow==5.4.1
+gevent==1.4.0
+gunicorn==19.9.0
+keras==2.14.0
+tensorflow==2.14.0
+numpy
